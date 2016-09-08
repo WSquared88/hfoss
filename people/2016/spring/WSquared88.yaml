@@ -7,7 +7,7 @@ major: Game Design and Development
 irc: WSquared88
 rit_dce: wsw3877
 forges:
-  GitHub: https://github.com/WSquared88
+  - https://github.com/WSquared88
 bio: Video games are what I do and what I do well.
 hw:
   firstflight: http://www.wes.ismakinggames.com/2016/01/27/my-first-flight/
@@ -25,3 +25,5 @@ hw:
   meetup3: http://www.wes.ismakinggames.com/2016/05/06/final-meetup/
   finalpreso: https://docs.google.com/presentation/d/1jlAsK-msGoD3MXiLyqWMePDfdQh-MyNQ1xtnpMZHMfE/edit?usp=sharing
   finalrepo: https://github.com/TheCodeInside/NumberMunchersXO
+
+
